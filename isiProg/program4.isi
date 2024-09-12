@@ -1,0 +1,13 @@
+programa prog4
+    declare a,b,c,d,e,f : number.
+    a := 4.
+    b := 2.
+    c := a + b.
+    d := a - b.
+    e := a * b.
+    f := a / b.
+    escreva (c).
+    escreva (d).
+    escreva (e).
+    escreva (f).
+fimprog.

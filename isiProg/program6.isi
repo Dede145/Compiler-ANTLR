@@ -1,0 +1,6 @@
+programa prog6
+    declare a : string.
+    escreva("Digite A").
+    leia(a).
+    escreva (a).
+fimprog.

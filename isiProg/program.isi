@@ -1,0 +1,9 @@
+programa prog
+    declare a : number.
+    declare b : string.
+    a := 1.
+    escreva("Escreva algo:").
+    leia(b).
+    escreva(a).
+    escreva(b).
+fimprog.

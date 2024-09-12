@@ -1,0 +1,7 @@
+programa prog7
+    declare a, b : number.
+    a := 1.
+    b := 2,1415 + a.
+    escreva("Pi is approximately ").
+    escreva(b).
+fimprog.

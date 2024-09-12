@@ -1,0 +1,5 @@
+programa prog5
+    declare a : number.
+    a := 1.
+    escreva(a).
+fimprog.

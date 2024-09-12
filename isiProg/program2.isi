@@ -1,0 +1,12 @@
+programa prog2
+    declare a,b : number.
+    escreva("Digite A").
+    leia (a).
+    escreva ("Digite B").
+    leia (b).
+    se (a<b) entao {
+        escreva (b).
+    } senao {
+        escreva (a).
+    }
+fimprog.

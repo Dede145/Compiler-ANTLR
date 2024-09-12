@@ -1,0 +1,8 @@
+programa prog3
+    declare a : number.
+    a := 1.
+    enquanto (a <= 5) {
+        escreva (a).
+        a := a + 1.
+    }
+fimprog.
